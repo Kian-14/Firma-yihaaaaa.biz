@@ -1,6 +1,6 @@
 # Firma yihaaaaa.biz
 
-**Donart, Elion, Kian, Kevin**
+### Donart, Elion, Kian, Kevin
 
 **Geschäftsleitung/Finanzen/Rechtsabteilung**
 - 7 Clients
