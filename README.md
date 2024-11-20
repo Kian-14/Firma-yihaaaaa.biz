@@ -42,15 +42,15 @@
 
 
 **Geschäftsleitung/Finanzen/Rechtsabteilung** für 7 Mitarbeiter, 4 Geräte und 14 mögliche Adressen
-Ip bereich **172.16.1.1 – 172.16.1.14**
+- Ip bereich **172.16.1.1 – 172.16.1.14**
 
 **Marketing/Verkauf** für 8 Mitarbeiter, 1 Lernender, 5 Geräte und 14 mögliche Adressen
-Ip bereich **172.16.1.17 - 172.16.1.30**
+- Ip bereich **172.16.1.17 - 172.16.1.30**
 
 **Produktion/Vertrieb** für 18 Mitarbeiter, 4 Lernende, 8 Geräte und 30 mögliche Adressen
-Ip bereich **172.16.1.33 - 172.16.1.62**
+- Ip bereich **172.16.1.33 - 172.16.1.62**
 
 **IT-Abteilung/Operation** für 7 Mitarbeiter, 2 Lernende, 5 Geräte und 14 mögliche Adressen
-Ip bereich **172.16.1.65 - 172.16.1.78**
+- Ip bereich **172.16.1.65 - 172.16.1.78**
 
   
