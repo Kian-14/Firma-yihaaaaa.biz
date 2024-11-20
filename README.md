@@ -12,7 +12,7 @@
 **Marketing/Verkauf**
 - 9 Clients
 - 1 Server
-- Drucker
+- 1 Drucker
 - 2 Switch
 - 1 Access-Point
 
@@ -20,7 +20,7 @@
 - 22 Clients
 - 1 Server
 - 1 Drucker
-- 4 Switch
+- 5 Switch
 - 3 Access-Point
 
 **IT Abteilung/Operations**
@@ -32,10 +32,11 @@
 
 **Total**
 - 47 Clients
-- 4 Servers
+- 4 Servers (HPE ProLiant MicroServer G10+) = 2680.95CHF
 - 4 Druckers
-- 7 Switches
-- 5 Access-Point
+- 8 Switches (Netgear GS108T-300PES) = 512.20CHF
+- 5 Access-Point (Netgear WAX625) = 685CHF
+- Total : 3878.15CHF
 
 
 
